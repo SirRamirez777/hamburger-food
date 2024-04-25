@@ -1,6 +1,6 @@
 **hamburger-food**
 <br>
-It's a hamburger restaurant website. You can get the fast delivery with best quality product...!
+It's a hamburger restaurant website.. You can get the fast delivery with best quality product...!
 <br>
 <br>
 https://hamburgerfood101.netlify.app
